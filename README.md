@@ -1,4 +1,5 @@
 ### Hi there 👋
+I am Abdelrahman, currently learning at Faculty of Computing and Data Science Alexandria University.
 
 <!--
 **AbdelrahmanSalah211/AbdelrahmanSalah211** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
