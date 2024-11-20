@@ -1,6 +1,8 @@
 # Hi there! 👋
 
-I'm a **Computer Science graduate** passionate about **Backend Development**. My tech stack primarily revolves around **Node.js**, **Express.js**
+I'm a **Computer Science graduate** passionate about **Backend Development**.
+
+My tech stack primarily revolves around **Node.js**, **Express.js**
 
 ## About Me
 
