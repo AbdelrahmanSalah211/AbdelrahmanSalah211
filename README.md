@@ -7,11 +7,11 @@ My tech stack primarily revolves around **Node.js**, **Express.js**
 ## About Me
 
 - 🔍 I'm particularly interested in developing APIs, handling data, and creating efficient services.
-- 🌱 Currently expanding my skills in web development and databases
+- 🌱 Currently expanding my skills in Web Development and Databases
 
 ## Technologies I Work With
 
-- **Languages:** JavaScript, C++
+- **Languages:** C++, JavaScript
 - **Backend Frameworks:** Node.js, Express.js
 - **Databases:** PostgreSQL, MongoDB
 
