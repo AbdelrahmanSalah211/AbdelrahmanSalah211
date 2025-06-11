@@ -2,7 +2,7 @@
 
 I'm a **Computer Science graduate** passionate about **Backend Development**.
 
-My tech stack primarily revolves around **Node.js**, **Express.js**
+My tech stack primarily revolves around javascript frameworks
 
 ## About Me
 
