@@ -13,5 +13,6 @@ My tech stack primarily revolves around javascript frameworks
 
 - **Languages:** JavaScript, TypeScript, C/C++, Java
 - **Backend Frameworks:** Node.js, Express.js, Nest.js
+- **Frontend Frameworks:** React
 - **Databases:** PostgreSQL, MySQL, MongoDB, Redis
 
