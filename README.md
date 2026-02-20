@@ -2,8 +2,6 @@
 
 I'm a **Software Engineer** passionate about **Backend Development**.
 
-My tech stack primarily revolves around javascript frameworks
-
 ## About Me
 
 - 🔍 I'm particularly interested in developing APIs, handling data, and creating efficient services.
